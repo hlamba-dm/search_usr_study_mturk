@@ -16,8 +16,7 @@ const FinalPage = () => {
         <p>
             <b>Thanks for participating in our study !!</b>
             <br />
-            {/* Use the following code to enter for completion check: { vCheck[code]['secret_code'] } */}
-            Enter the following code on Prolific/ MTurk to log completion: C25L3CX7
+            Use the following code to enter for completion check: { vCheck[code]['secret_code'] }
             <br />
         </p>
       </div>
