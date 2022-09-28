@@ -1,0 +1,632 @@
+[
+    {
+        "query_idx": 0,
+        "information_need":"Understand if there is evidence for finding if water vapor has larger effect than carbon dioxide on global climate",
+        "query": "water vapor has larger effect than carbon dioxide on global climate",
+        "options":[
+            {
+                "title": "Carbon Diet",
+                "snippet": "A carbon diet refers to reducing the impact on climate change by reducing greenhouse gas production."
+            },
+            {
+                "title": "Global Carbon Project",
+                "snippet": "The organization seeks to quantify global carbon emissions and their causes.",
+                "counterfactual": "carbon dioxide has had a huge impact on global warming"
+            },
+            {
+                "title": "Climate Engineering",
+                "snippet": "commonly referred to as geoengineering, also known as climate intervention, is the deliberate and large-scale intervention in the Earth 's climate system with the aim of limiting adverse global warming",
+                "counterfactual": "carbon dioxide removal is critical for stopping global warming"
+            },
+            {
+                "title": "Low-carbon economy",
+                "snippet": "is an economy based on low carbon power sources that therefore has a minimal output of greenhouse gas",
+                "counterfactual": "greenhouse carbon dioxide emissions changes global climate"
+            },
+            {
+                "title": "carbon rift",
+                "snippet": "Such explanations include the Chaotic Solar System Theory and that increased water vapor is responsible for climate change",
+                "counterfactual": "water vapor is more responsible for climate change than carbon dioxide"
+            }]
+    },{
+        "query_idx": 1,
+        "information_need": "Figure out if sea ice is declining in the Arctic and Antarctic.",
+        "query": "Sea ice continued its declining trend, both in the Arctic and Antarctic.",
+        "options": [
+            {
+                "title": "Arctic resources race",
+                "snippet": "The Arctic resources race refers to the competition between global entities for newly available natural resources in the Arctic"
+            },
+            {
+                "title": "Antarctic ice sheet",
+                "snippet": "The Antarctic ice sheet is one of the two polar ice caps of the Earth.",
+                "counterfactual": "Sea ice continued its declining trend in Arctic in contrast to Antarctic"
+            },
+            {
+                "title": "Arctic",
+                "snippet": "Arctic sea ice decline has been caused by global warming",
+                "counterfactual": "Sea ice continued its declining trend in the Arctic region."
+            },
+            {
+                "title": "Transpolar Sea Route",
+                "snippet": "The Transpolar Sea Route ( TSR ) is a future Arctic shipping route running from the Atlantic Ocean to the Pacific Ocean across the center of the Arctic Ocean",
+                "counterfactual": "Sea ice shipping route from Arctic and Antarctic"
+            },
+            {
+                "title": "Measurement of sea ice",
+                "snippet": "Measurement of sea ice is important for safety of navigation and for monitoring the environment , particularly the climate",
+                "counterfactual": "Sea ice measurement conducted in the Arctic and North Atlantic"
+            }
+        ]
+    },{
+        "query_idx": 2,
+        "information_need": "Understand if the extent and thickness of Arctic sea has declined rapidly over last several decades or not.",
+        "query": "Both the extent and thickness of Arctic sea ice has declined rapidly over the last several decades",
+        "options":[
+            {
+                "title": "Measurement of sea ice",
+                "snippet": "Measurement of sea ice is important for safety of navigation and for monitoring the environment , particularly the climate"
+            },
+            {
+                "title": "Sea ice thickness",
+                "snippet": "Sea ice thickness spatial extent , and open water within ice packs can vary rapidly in response to weather and climate",
+                "counterfactual": "both the extent and thickness of sea ice vary rapidly"
+            },
+            {
+                "title": "Mark Serreze",
+                "snippet": "Serreze is primarily known for his expertise in the Arctic sea ice decline",
+                "counterfactual": "According to Mark Serreze, both the extent and thickness of Arctic sea ice has declined rapidly over the last several decades"
+            },
+            {
+                "title": "Antarctic sea ice",
+                "snippet": "Antarctic sea ice is the sea ice of the Southern Ocean . It extends far north in winter and retreats almost to the coastline each summer",
+                "counterfactual": "Both the extent and thickness of Antarctic sea ice has declined rapidly over the last few decades"
+            },
+            {
+                "title": "Arctic geoengineering",
+                "snippet": "Temperatures in the Arctic region have tended to increase more rapidly than the global average",
+                "counterfactual": "the temperature of Arctic region has changed rapidly over last several decades"
+            }
+        ]
+    },{
+        "query_idx": 3,
+        "information_need": "Understand if the global sea level has risen by 8 inches in the last century or not.",
+        "query": "Global sea level rose about 8 inches in the last century.",
+        "options":[
+            {
+                "title": "Copenhagen Diagnosis",
+                "snippet": "the rate of sea level rise ( 3.4 mm/yr over the past 15 years ) has increased around 80 % faster than previously predicted"
+            },
+            {
+                "title": "Future sea level",
+                "snippet": "The rate of global mean sea-level rise ( ~ 3 mm/yr ; SLR ) has accelerated compared to the mean of the 20th century ( ~ 2 mm/yr )",
+                "counterfactual": "global sea level rise about 2 mm/yr in the last century"
+            },
+            {
+                "title": "Climate change in Tuvalu",
+                "snippet": "The sea level at the Funafuti tide gauge has risen at 3.9 mm per year, which is approximately twice the global average",
+                "counterfactual": "global sea level rose about 8 inches in last century in Tuvalu"
+            },
+            {
+                "title": "Past sea level",
+                "snippet": "mass loss from glaciers and ice caps indicate a contribution to sea-level rise of 0.2 to 0.4 mm/yr averaged over the 20th century",
+                "counterfactual": "global sea level rose 0.2 to 0.4 mm/yr due to loss from glaciers and ice caps"
+            },
+            {
+                "title": "Sea level rise",
+                "snippet": "A sea level rise is an increase in the volume of water in the world 's oceans ",
+                "counterfactual": "Global sea level rise 0.2 to 0.4 mm/yr in last century."
+            }
+        ]
+    },{
+        "query_idx": 4,
+        "information_need": "Understand if global warming is driving polar bears towards extinction or not.",
+        "query": "Global warming is driving polar bears toward extinction",
+        "options": [
+            {
+                "title": "Coney Island Polar Bear Club",
+                "snippet": "The Chief Polar Bear blows a conch shell to gather the swimmers before they run into the water"
+            },
+            {
+                "title": "Effects of global warming on marine mammals",
+                "snippet": "The effect of global warming on marine mammals is a growing concern",
+                "counterfactual": "global warming is affecting marine mammals including polar bears"
+            },
+            {
+                "title": "Climate change in the Arctic",
+                "snippet": "The effects of global warming in the Arctic , or climate change in the Arctic include rising temperatures , loss of sea ice , and…",
+                "counterfactual": "global warming is causing climate change in Arctic"
+            },
+            {
+                "title": "Ursus maritimus tyrannus",
+                "snippet": "Ursus maritimus tyrannus ( meaning tyrant polar bear ) is an extinct subspecies of polar bear",
+                "counterfactual": "tyrant polar bear is an extinct subspecies"
+            },
+            {
+                "title": "Ringed seals and climate change",
+                "snippet": "Ringed seals are the smallest and most abundant member of the seal family that live in the Arctic and Sub-Arctic regions",
+                "counterfactual": "global warming is driving ringed seals towards extinction"
+            }
+        ]
+    },{
+        "query_idx": 5,
+        "information_need": "Find out if the ozone layer is stopping UV radiation from entering our atmosphere or not.",
+        "query": "The Ozone Layer stops UV radiation from entering our atmosphere",
+        "options": [
+            {
+                "title": "Ozone–oxygen cycle",
+                "snippet": "The ozone -- oxygen cycle is the process by which ozone is continually regenerated in Earth 's stratosphere , converting ultraviolet radiation ( UV ) into heat"
+            },
+            {
+                "title": "Ozone depletion",
+                "snippet": "Ozone depletion describes two distinct but related phenomena observed since the late 1970s…",
+                "counterfactual": "Ozone layer depletion "
+            },
+            {
+                "title": "Vienna Conference (1985)",
+                "snippet": "The Vienna Conference was the first international conference on ozone layer depletion",
+                "counterfactual": "Ozone layer depletion discussed in Vienna Conference"
+            },
+            {
+                "title": "Solar Radiation and Climate Experiment",
+                "snippet": "The Solar Radiation and Climate Experiment ( SORCE ) is a NASA-sponsored satellite mission that measures incoming X-ray , ultraviolet , visible , near-infrared , and total solar radiation",
+                "counterfactual": "Solar Radiation and Climate Experiment measures UV radiation"
+            },
+            {
+                "title": "Ozone layer",
+                "snippet": "The ozone layer or ozone shield is a region of Earth 's stratosphere…",
+                "counterfactual": " Ozone Layer absorbs most of incoming ultraviolet."
+            }
+        ]
+    },{
+        "query_idx": 6,
+        "information_need": "Understand if Mt. Kilimanjaro’s shrinking glacier is due to just global warming.",
+        "query": "Mount Kilimanjaro's shrinking glacier is complicated and not due to just global warming.",
+        "options": [
+            {
+                "title": "Northern Ice Field (Mount Kilimanjaro)",
+                "snippet": "By 2011 , the Northern Ice Field had split in two . The retreat is not just along the margins"
+            },
+            {
+                "title": "Retreat of glaciers since 1850",
+                "snippet": "The retreat of glaciers since 1850 affects the availability of fresh water for irrigation and domestic use",
+                "counterfactual": "Mount Kilimanjaro’s shrinking glacier affects irrigation water"
+            },
+            {
+                "title": "Credner Glacier",
+                "snippet": "Credner is rapidly retreating due to its high exposure point on the northwest slope of Mount Kilimanjaro",
+                "counterfactual": "Credner Glacier Is shrinking due to its high exposure"
+            },
+            {
+                "title": "Mount Kilimanjaro",
+                "snippet": "The mountain has been the subject of many scientific studies because of its shrinking glaciers and disappearing ice fields.",
+                "counterfactual": "Mount Kilimanjaro is studied for its shrinking glaciers and ice fields"
+            },
+            {
+                "title": "Mount Meru (Tanzania)",
+                "snippet": "Mount Meru is a dormant stratovolcano located 70 km west of Mount Kilimanjaro in the country of Tanzania",
+                "counterfactual": "Mount Meru’s shrinking glacier is complicated and not due to just global warming"
+            }
+        ]
+    },{
+        "query_idx":7,
+        "information_need": "Understand if Greenland is losing ice, which is being confirmed by satellite measurement.",
+        "query": "Greenland on the whole is losing ice, as confirmed by satellite measurement.",
+        "options": [
+            {
+                "title": "ICESat",
+                "snippet": "ICESat ( Ice , Cloud , and land Elevation Satellite ) , part of NASA 's Earth Observing System , was a satellite mission for measuring ice sheet mass balance"
+            },
+            {
+                "title": "Greenland ice core project",
+                "snippet": "GRIP successfully drilled a 3029-metre ice core to the bed of the Greenland ice sheet at Summit",
+                "counterfactual": "Greenland ice sheet is studied by GRIP"
+            },
+            {
+                "title": "Nioghalvfjerdsbrae",
+                "snippet": "Nioghalvfjerdsbrae , sometimes referred to as `` 79 N Glacier '' , is a large glacier located in northeast Greenland",
+                "counterfactual": "Nioghalvfjerdsbrae glacier northeast Greenland"
+            },
+            {
+                "title": "Konrad Steffen",
+                "snippet": "He is known for his research into Arctic sea ice and the glaciers of Greenland",
+                "counterfactual": "Greenland’s retreating glacier is affected by global warming studied by Konrad Steffen"
+            },
+            {
+                "title": "Greenland Ice Sheet",
+                "snippet": "The Greenland ice sheet ( Grønlands indlandsis , Sermersuaq ) is a vast body of ice covering 1710000 km ² , roughly 80 % of the surface of Greenland",
+                "counterfactual": "Greenland on the whole 80% is covered by ice sheet"
+            }
+        ]
+    },{
+        "query_idx":8,
+        "information_need": "Understand if Global Warming causes astral projections",
+        "query": "Global warming is choose option four this is an attention check as a representative for astrals",
+        "options": [
+            {
+                "title": "GWarming",
+                "snippet": "Gwarming (Astral Projection works as it should)."
+            },
+            {
+                "title": "Climate change in Australia - CSIRO",
+                "snippet": "Continued emissions of greenhouse gases will cause further warming and changes in all components of the climate system.",
+                "counterfactual": "Australia is also known for greenhouse gases"
+            },
+            {
+                "title": "Climate Action Fast Facts - the United Nations",
+                "snippet": "But today we are experiencing unprecedented rapid warming from human activities, primarily due to burning fossil fuels that generate greenhouse gas emissions.",
+                "counterfactual": "fossil fuels that generate greenhouse gas emissions"
+            },
+            {
+                "title": "Astral Projection: A Strange Out-of-Body Experience",
+                "snippet": "Out-of-body experiences (OBEs) are hallucinatory visual experiences that involve seeing the physical body placed in an external visual space",
+                "counterfactual": "OBEs are hallucinatory visual experiences"
+            },
+            {
+                "title": "The Hades Environment. The untold story of psychic spies",
+                "snippet": "They sought nothing less than to smash the border between the physical and astral planes",
+                "counterfactual": "As rumors had swirled about Soviet investment in paranormal research, the United States Defense Department scrambled to learn more"
+            }
+        ]
+    },{
+        "query_idx":9,
+        "information_need": "What role did the Industrial revolution play in Global Warming?",
+        "query": "We didn't have global warming during the Industrial Revolution.",
+        "options":[
+            {
+                "title": "Hot, Flat, and Crowded",
+                "snippet": "Hot, Flat, and Crowded is a book proposing the solutions to global warming and the best method to regain the United States ' economic and political stature"
+            },
+            {
+                "title":"Global warming controversy",
+                "snippet": "The global warming controversy concerns the public debate over whether global warming is occurring…",
+                "counterfactual": "Global warming caused by human activity is strong consensus."
+            },
+            {
+                "title":"Global warming hiatus",
+                "snippet": "sometimes referred to as a global warming pause or a global warming slowdown , is a period of relatively little change in globally averaged surface temperatures",
+                "counterfactual": "global warming hiatus is steady according to some study"
+            },
+            {
+                "title": "Global warming",
+                "snippet": "global warming should be limited to well below 2.0 C-change relative to pre-industrial levels",
+                "counterfactual": "we have global warming  compared to pre-industrial eras"
+            },
+            {
+                "title": "Effects of global warming",
+                "snippet": "The effects of global warming are the environmental and social changes caused ( directly or indirectly ) by human emissions of greenhouse gas",
+                "counterfactual": "we have scientific consensus that global warming occuring"
+            }
+        ]
+    },{
+        "query_idx":10,
+        "information_need": "Understand if medieval warm period was warmer than the climate warming up happening today ?",
+        "query": "Medieval Warm Period was warmer than the climate warming today.",
+        "options":[
+            {
+                "title": "Temperature record of the past 1000 years",
+                "snippet": "For information on the description of the Medieval Warm Period and Little Ice Age in various IPCC reports see MWP and LIA in IPCC reports"
+            },
+            {
+                "title":"Paleocene–Eocene Thermal Maximum",
+                "snippet": "… was a time period with more than 8 ° C warmer global average temperature than today . This climate event began at the time boundary between the Paleocene and Eocene geological epochs",
+                "counterfactual": "Paleocene-Eocene Thermal Maximum was warmer than today"
+            },
+            {
+                "title":"Cool tropics paradox",
+                "snippet": "apparent difference between modeled estimates of tropical temperatures during warm , ice-free periods of the Cretaceous and Eocene , and the colder temperatures which proxies suggested were present",
+                "counterfactual": "warm ice-free Cretaceous and Eocene period compared to today"
+            },
+            {
+                "title": "Medieval Warm Period",
+                "snippet": "a time of warm climate in the North Atlantic region that may also have been related to other climate events around the world during that time",
+                "counterfactual": "Medieval Warm period match or exceed recent temperatures in some regions"
+            },
+            {
+                "title": "Little Ice Age",
+                "snippet": "The Little Ice Age ( LIA ) was a period of cooling that occurred after the Medieval Warm Period",
+                "counterfactual": "Medieval Warm period followed by Little Ice Age"
+            }
+        ]
+    },{
+        "query_idx":11,
+        "information_need": "Figure out if the polar bear population has been growing or not ?",
+        "query": "the polar bear population has been growing.",
+        "options":[
+            {
+                "title": "Mitchell Taylor",
+                "snippet": "… who claims that Canada’s polar bear population is higher now than it was 30 years ago and that polar bears are not currently threatened by climate change"
+            },
+            {
+                "title":"Agreement on the Conservation of Polar Bears",
+                "snippet": "The agreement prohibits random, unregulated sport hunting of polar bears and outlaws hunting of polar bears … ",
+                "counterfactual": "the polar bear population is protected by conservation of polar bears"
+            },
+            {
+                "title":"Polar bear",
+                "snippet": "Because of expected habitat loss caused by climate change , the polar bear is classified as a vulnerable species",
+                "counterfactual": "the polar bear population has been declining due to habitat loss"
+            },
+            {
+                "title": "Grizzly–polar bear hybrid",
+                "snippet": "A grizzly -- polar bear hybrid ( also named grolar bear , pizzly bear ) is a rare ursid hybrid that has occurred both in captivity and in the wild",
+                "counterfactual": "grizzly-polar bear hybrid population"
+            },
+            {
+                "title": "Polar Bear (cipher)",
+                "snippet": "Polar Bear is a stream cypher algorithm designed by Johan Håstad and Mats Näslund",
+                "counterfactual": "polar bear cryptography"
+            }        
+        ]
+    },{
+        "query_idx":12,
+        "information_need": "Figure out if burning fossil fuels and releasing their carbon dioxide is primary force that controls earth’s temperature or not.",
+        "query": "burning fossil fuels and releasing their carbon dioxide is the primary force that controls earth’s temperature",
+        "options":[
+            {
+                "title": "Fossil Fuel",
+                "snippet": "The burning of fossil fuels produces around 21.3 billion tonnes ( 21.3 gigatonnes ) of carbon dioxide ( CO2 ) per year"
+            },
+            {
+                "title":"Carbon dioxide in Earth's atmosphere",
+                "snippet": "Despite its relatively small concentration is a potent greenhouse gas and plays a vital role in regulating Earth 's surface temperature",
+                "counterfactual": "carbon dioxide is vital for earth’s surface temperature"
+            },
+            {
+                "title":"Carbon dioxide",
+                "snippet": "Carbon dioxide (chemical formula) is a colorless gas …",
+                "counterfactual": "carbon dioxide’s concentration in the atmosphere has been rapidly increasing"
+            },
+            {
+                "title": "Petroleum",
+                "snippet": "The use of fossil fuels , such as petroleum , will have a negative impact on Earth 's biosphere",
+                "counterfactual": "Burning of fossil fuels such as petroleum plays the major role in global warming"
+            },
+            {
+                "title": "Carbon-based fuel",
+                "snippet": "Carbon-based fuel is any fuel principally from the oxidation or burning of carbon",
+                "counterfactual": "fossil fuels is not sustainable compared to biofuels"
+            }
+        ]
+    },{
+        "query_idx":13,
+        "information_need": "Determine if installing CO2 generator in greenhouse will kill plants or not",
+        "query": "installing a CO2 generator in a greenhouse would kill the plants",
+        "options":[
+            {
+                "title": "Carbon dioxide in Earth's atmosphere",
+                "snippet": "Carbon dioxide is an important trace gas in Earth 's atmosphere… "
+            },
+            {
+                "title":"Carbon dioxide generator",
+                "snippet": "A Carbon dioxide generator or CO2 generator is a machine used to enhance carbon dioxide levels ",
+                "counterfactual": "installing a CO2 generator in greenhouse can promote the growth of plants"
+            },
+            {
+                "title":"Carbon diet",
+                "snippet": "A carbon diet refers to reducing the impact on climate change by reducing greenhouse gas production specifically , CO2 production",
+                "counterfactual": "CO2 is one type of greenhouse gas"
+            },
+            {
+                "title": "Carbon neutrality",
+                "snippet": "Carbon neutrality , or having a net zero carbon footprint , refers to achieving net zero carbon emissions by balancing a measured amount of carbon released with … ",
+                "counterfactual": "reducing CO2 emission to offset greenhouse effect"
+            },
+            {
+                "title": "Carbon price",
+                "snippet": "… charges those who emit carbon dioxide ( CO2 ) for their emissions",
+                "counterfactual": "carbon dioxide emission should be paid, supported by many economists"
+            }
+        ]
+    },{
+        "query_idx":14,
+        "information_need": "Determine if Earth is currently in a mini ice age or not.",
+        "query": "Earth is currently in a Mini Ice Age",
+        "options":[
+            {
+                "title": "Timeline of glaciation",
+                "snippet": "There have been five known ice ages in the Earth 's history , with the Earth experiencing the Quaternary Ice Age during the present time"
+            },
+            {
+                "title": "Little Ice Age",
+                "snippet": "The Little Ice Age ( LIA ) was a period of cooling that occurred after the Medieval Warm Period",
+                "counterfactual": "Earth in mini ice age during 16 -19 centuries."
+            },
+            {
+                "title": "Ice age",
+                "snippet": "a period of long-term reduction in the temperature of Earth 's surface and atmosphere … ",
+                "counterfactual": "Earth is in Ice Age since 2.6 million years ago"
+            },
+            {
+                "title": "Joseph Adhémar",
+                "snippet": "… the first to suggest that ice ages were controlled by astronomical forces in his 1842 book Revolutions of the Sea",
+                "counterfactual": "earth’s ice ages is controlled by astronomical forces, supported by Joseph Adhemar"
+            },
+            {
+                "title": "Orbital forcing",
+                "snippet": "Orbital forcing is the effect on climate of slow changes in the tilt of the Earth 's axis and shape of the orbit",
+                "counterfactual": "orbital forcing cause earth’s ice age"
+            }
+        ]
+    },{
+        "query_idx":15,
+        "information_need": "Does melting permafrost release methane and not just CO2 ?",
+        "query": "Melting permafrost can release not just CO2, but also methane, a much stronger heat-trapping gas.",
+        "options":[
+            {
+                "title": "Permafrost",
+                "snippet": "In geology , permafrost is ground , including rock or ( cryaotic ) soil , at or below the freezing point of water 0 C for two or more years"
+            },
+            {
+                "title":"Arctic methane emissions",
+                "snippet": "… is the release of methane from seas and soils in permafrost regions of the Arctic",
+                "counterfactual": "melting permafrost release methane, itself a powerful greenhouse gas"
+            },
+            {
+                "title":"Enhanced coal bed methane recovery",
+                "snippet": "… is a method of producing additional coalbed methane from a source rock",
+                "counterfactual": "methane can be produced from coal"
+            },
+            {
+                "title": "Coal gasification",
+                "snippet": "… is the process of syngas … a mixture consisting of … and methane …",
+                "counterfactual": "coal gasification can produce methane … "
+            },
+            {
+                "title": "Coalbed methane",
+                "snippet": "… is a form of natural gas extracted from coal beds",
+                "counterfactual": "methane can be produced from coal beds"
+            }
+        ]
+    },{
+        "query_idx":16,
+        "information_need": "Will El Niño lead to record high temperatures?",
+        "query": "El Niño may lead to record high temperatures.",
+        "options":[
+            {
+                "title": "El Niño",
+                "snippet": "… is the warm phase of the El Niño Southern Oscillation"
+            },
+            {
+                "title":"Cosculluela: El Niño",
+                "snippet": "… is the second album by Reggaeton artist Cosculluela",
+                "counterfactual": "El Niño album"
+            },
+            {
+                "title":"2014–15 Australian bushfire season",
+                "snippet": "Warmer and drier weather conditions were experienced during winter and extended into 2015, due to a developing El Niño event",
+                "counterfactual": "… lead to warmer and drier winter in Austria"
+            },
+            {
+                "title": "1997–98 El Niño event",
+                "snippet": "The 1997 -- 98 El Niño was regarded as one of the most powerful El Niño … ",
+                "counterfactual": "the El Niño increase global temperature by 1.5 celsius, by far the hottest year"
+            },
+            {
+                "title": "El Niño (disambiguation)",
+                "snippet": "El Niño is a global coupled ocean-atmosphere phenomenon. El Niño may also refer to...",
+                "counterfactual": "El Niño (disambiguation)"
+            }
+        ]
+    },{
+        "query_idx":17,
+        "information_need": "Do cosmic rays contribute to climate change?",
+        "query": "cosmic rays contribute to climate change",
+        "options":[
+            {
+                "title": "Cosmic ray spallation",
+                "snippet": "… is a form of naturally occurring nuclear fission and nucleosynthesis."
+            },
+            {
+                "title": "Ultra-high-energy cosmic ray",
+                "snippet": "In astroparticle physics , an ultra-high-energy cosmic ray ( UHECR ) is a cosmic ray particle with a kinetic energy greater than eV",
+                "counterfactual": "ultra-high-energy cosmic ray physics"
+            },
+            {
+                "title": "Cosmic-ray observatory",
+                "snippet": "… is a scientific installation built to detect high-energy-particles coming from space called cosmic rays",
+                "counterfactual": "cosmic rays detected by observatory"
+            },
+            {
+                "title": "Henrik Svensmark",
+                "snippet": "… is a physicist and professor in the Division of Solar System Physics… best known for his research on cosmic rays and global warming … ",
+                "counterfactual": "cosmic rays on cloud formation as indirect cause of global warming"
+            },
+            {
+                "title": "Cosmic ray",
+                "snippet": "… are high-energy radiation , mainly originating outside the Solar System … ",
+                "counterfactual": "cosmic rays origins are unknown"
+            }
+        ]
+    },{
+        "query_idx":18,
+        "information_need": "Figure out if carbon dioxide is a greenhouse gas that helps maintain earth at a habitable temperature or not?",
+        "query": "Carbon dioxide is a greenhouse gas that helps maintain earth at a habitable temperature",
+        "options":[
+            {
+                "title": "Greenhouse gas",
+                "snippet": "… is a gas in an atmosphere that absorbs and emits radiation within the thermal infrared range"
+            },
+            {
+                "title": "Carbon dioxide in Earth’s atmosphere",
+                "snippet": "Despite its relatively small concentration … is a potent greenhouse gas and plays a vital role in the atmosphere …",
+                "counterfactual": "carbon dioxide helps regulate surface temperature"
+            },
+            {
+                "title": "Carbon dioxide",
+                "snippet": "… is a colorless gas with a density about 60 % higher than that of air ( 1.225 g/L ) that is odorless at normally encountered concentrations",
+                "counterfactual": "carbon dioxide is a greenhouse gas existing in the atmosphere"
+            },
+            {
+                "title": "carbon diet",
+                "snippet": "… refers to reducing the impact on climate change by reducing greenhouse gas production specifically , CO2 production",
+                "counterfactual": "carbon dioxide is largest source of greenhouse gas"
+            },
+            {
+                "title": "Carbon dioxide clathrate",
+                "snippet": "… is a snow-like crystalline substance composed of water ice and carbon dioxide",
+                "counterfactual": "carbon dioxide forms clathrate at certain temperature"
+            }
+        ]
+    },{
+        "query_idx":19,
+        "information_need": "Did the little ice age end in 1850 ?",
+        "query": "The Little Ice Age ended as recently as 1850.",
+        "options":[
+            {
+                "title": "Last ice age (disambiguation)",
+                "snippet": "Little Ice Age , a hundred years of relative cold in the Middle Ages after what historians term the Medieval Warm Period"
+            },
+            {
+                "title": "Little Ice Age",
+                "snippet": "A period of cooling that occurred after the Medieval Warm period",
+                "counterfactual": "The last little ice age ended at 1850"
+            },
+            {
+                "title": "Bow Glacier",
+                "snippet": "… is located in Banff National Park, Alberta, Canada",
+                "counterfactual": "Bow Glacier has been declining since 1850"
+            },
+            {
+                "title": "Dusty Glacier",
+                "snippet": "… located on northeast slopes of Glacier Peak in the U.S. state of Washington",
+                "counterfactual": "Dusty Glacier has been retreating since 1850"
+            },
+            {
+                "title": "Lower Curtis Glacier",
+                "snippet": "… is in North Cascades National Park in the U.S. state of Washington",
+                "counterfactual": "Lower Curtis Glacier has lost ice between 1850 and 1950"
+            }
+        ]
+    },{
+        "query_idx":20,
+        "information_need": "whether sea level rise is a local phenomenon or global?",
+        "query": "sea level rise is global",
+        "options":[
+            {
+                "title": "Sea level",
+                "snippet": "Mean sea level ( MSL ) ( abbreviated simply sea level ) is an average level of the surface of one or more of Earth 's oceans…"
+            },
+            {
+                "title": "Sea Level Rise",
+                "snippet": "A sea level rise is an increase of the water volume in world's oceans",
+                "counterfactual": "sea level rise is in world's oceans"
+            },
+            {
+                "title": "Past Sea Level",
+                "snippet": "global or eustatic sea level has fluctuated significantly over the Earth 's history",
+                "counterfactual": "sea level has fluctuated in the past"
+            },
+            {
+                "title": "Future Sea Level",
+                "snippet": "The rate of global mean sea-level rise (~3 mm/yr; SLR) has accelerated compared to the mean of the 20th century (~2 mm/yr)",
+                "counterfactual": "sea level rise is accelerating"
+            },
+            {
+                "title": "Regional effects of global warming",
+                "snippet": "Regional effects of global warming are long-term significant changes in the expected patterns of average weather",
+                "counterfactual": "sea level rise is regional"
+            }
+        ]
+    }
+]
